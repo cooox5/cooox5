@@ -11,7 +11,6 @@
 
 <!-- **cooox5/cooox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 
-- 👩‍💻 Studied [Social welfare] and [Computer science] 🇰🇷 </br>
 - 🍀 If you want to know more about me, [come here](https://www.youtube.com/@cooox5) </br>
 
 <a href="https://github.com/cooox5/github-readme-stats">
